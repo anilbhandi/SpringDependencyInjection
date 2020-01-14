@@ -22,3 +22,4 @@ public class HibernateSpeakerRepositoryImpl implements SpeakerRepository {
 		return speakers;
 	}
 }
+ 
